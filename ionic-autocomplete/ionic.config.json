@@ -1,0 +1,7 @@
+{
+  "name": "ionic-autocomplete",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
